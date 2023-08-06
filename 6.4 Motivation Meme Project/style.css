@@ -1,0 +1,24 @@
+
+h1{
+    font-family: 'Libre Baskerville', serif; 
+}
+
+p{
+    font-family: 'Lugrasimo', cursive;
+}
+
+.motivational{
+    border:5px solid white;
+    width:100%
+}
+
+.poster{
+    margin-top: 40px;
+    margin-left: 80px;
+    color:white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+body{
+    background-color:black
+}
